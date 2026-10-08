@@ -10,8 +10,9 @@ Write your code in this editor and press "Run" button to compile and execute it.
 int main()
 {
     int i=0,j=0,num;
+    printf("Enter the num value :");  
     scanf( "%d",&num);
-    for( i=0;i<=0;i++)
+    for( i=0;i<=num;i++)
     {
         for(j=1;j<=num-i;j++)
         {
