@@ -8,8 +8,6 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 #include <stdio.h>
 
-#include <stdio.h>
-
 int secondLargest(int arr[], int n)
 {
     int largest, second_largest;
